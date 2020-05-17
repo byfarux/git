@@ -1,5 +1,2 @@
 # git
-zz
-kk
-nasöyler
-ee
+Test for project
