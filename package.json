@@ -1,0 +1,25 @@
+{
+  "name": "node-npm-test-projesi",
+  "version": "1.0.0",
+  "description": "ilk deneyiş",
+  "main": "index.js",
+  "scripts": {
+    "test":   "echo \"Error: no test specified\" && exit 1",
+    "ismim": "echo Faruk ŞAHİN"
+  },
+  "keywords": [
+    "proje",
+    "npm",
+    "deneme",
+    "ilk"
+  ],
+  "author": "Faruk ŞAHİN",
+  "license": "ISC",
+  "dependencies": {
+    "simple-is": "^0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/byfarux/git.git"
+  }
+}
